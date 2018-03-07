@@ -19,6 +19,6 @@ defmodule MqttDemo.MixProject do
   end
 
   defp deps do
-    [{:hulaaki, "~> 0.1.2"} ]
+    [{:hulaaki, "~> 0.1.2"}]
   end
 end

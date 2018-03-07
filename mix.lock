@@ -1,0 +1,3 @@
+%{
+  "hulaaki": {:hex, :hulaaki, "0.1.2", "bb6a7540596d3a12eb2e4624dd8daf5b00c5723826563f7cd47fadbec9f8ed0d", [:mix], [], "hexpm"},
+}
